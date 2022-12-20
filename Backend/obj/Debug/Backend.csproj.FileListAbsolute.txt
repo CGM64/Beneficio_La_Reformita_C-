@@ -1,6 +1,0 @@
-D:\Proyectos C#\La Reformita\Backend\obj\Debug\Backend.csproj.AssemblyReference.cache
-D:\Proyectos C#\La Reformita\Backend\obj\Debug\Backend.csproj.CoreCompileInputs.cache
-D:\Proyectos C#\La Reformita\Backend\bin\Debug\Backend.dll
-D:\Proyectos C#\La Reformita\Backend\bin\Debug\Backend.pdb
-D:\Proyectos C#\La Reformita\Backend\obj\Debug\Backend.dll
-D:\Proyectos C#\La Reformita\Backend\obj\Debug\Backend.pdb
