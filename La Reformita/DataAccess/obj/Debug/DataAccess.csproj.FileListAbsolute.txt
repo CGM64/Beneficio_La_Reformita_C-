@@ -1,0 +1,8 @@
+D:\Proyectos C#\La Reformita\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\Proyectos C#\La Reformita\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\La Reformita\DataAccess\bin\Debug\DataAccess.dll
+D:\Proyectos C#\La Reformita\DataAccess\bin\Debug\DataAccess.pdb
+D:\Proyectos C#\La Reformita\DataAccess\bin\Debug\Backend.dll
+D:\Proyectos C#\La Reformita\DataAccess\bin\Debug\Backend.pdb
+D:\Proyectos C#\La Reformita\DataAccess\obj\Debug\DataAccess.dll
+D:\Proyectos C#\La Reformita\DataAccess\obj\Debug\DataAccess.pdb
